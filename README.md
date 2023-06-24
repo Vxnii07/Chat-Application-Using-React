@@ -1,10 +1,3 @@
-# Login Credentials:
-
-username- harshit, user1, user2
-
-password- 121212
-
-
 
 
 # Getting Started with Create React App
